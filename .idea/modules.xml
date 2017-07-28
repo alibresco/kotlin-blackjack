@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/kotlin-blackjack.iml" filepath="$PROJECT_DIR$/.idea/kotlin-blackjack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kotlin-blackjack.iml" filepath="$PROJECT_DIR$/kotlin-blackjack.iml" />
     </modules>
   </component>
 </project>
